@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta description="The  objective of the Santa Barbara Coastal Long Term Ecological Research project is to investigate the land and ocean processes structuring giant kelp forest ecosystems (Macrocystis pyrifera) of the Santa Barbara Channel."></meta>
+	<title>Regional Ecosystem Serives Observation Network</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	
+	<!-- Bootstrap DataTable -->
+	<!-- <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css"> -->
+	
+	<!-- Bootstrap Toggle -->
+	<link href="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.4.0/css/bootstrap4-toggle.min.css" rel="stylesheet">
+
+	<!-- favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="/assets/img/Rlogo.png">
+
+	<!-- General CSS -->
+	<link rel="stylesheet" href="/assets/css/main.css">
+
+	<!-- Layout-Specific CSS -->
+	<link rel="stylesheet" href="/assets/css/custom/layouts/article.css">
+
+	<!-- Page-Specific / Include-Specific CSS -->
+	
+</head>
+
+
+	<body>
+		<!-- NAV -->
+<nav class="navbar navbar-expand-md navbar-light" style="background-color: #7b2e24;">
+	<div class="container-fluid">
+
+		<!-- Title Item -->
+		<a class="navbar-brand" href="/" >
+			<div id="home-nav" class="row">
+				<img src="/assets/img/Rlogo.png"/>
+			</div>
+		</a>
+
+<!-- Menu Toggle -->
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+    <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+
+      <li class="nav-item">
+        <a class="nav-link" href="/about/"> About </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link" href="/people/">People </a>
+      </li>
+      
+<li class="nav-item">
+        <a class="nav-link" href="/news/">News </a>
+      </li>
+      
+      
+  <!--outreach-->
+  
+  <li class="nav-item dropdown">
+					<a  href="/resources/workshop1"
+						class="nav-link dropdown-toggle"
+						id="data-dropdown05"
+						data-toggle="dropdown"
+						aria-haspopup="true"
+						aria-expanded="false">
+						Resources
+					</a>
+					<div class="dropdown-menu" aria-labelledby="data-dropdown05">
+						<a class="dropdown-item" href="/resources/workshop1/">Workshop 1</a> 
+					</div>
+				</li>    
+      
+
+
+    </ul>
+  </div>
+</nav>
+
+<script>
+$(function() {
+	$('.navbar .nav-item').hover(
+		function(e) {
+			$(this).addClass('show');
+			$(this).find('.dropdown-menu').addClass('show');
+		},
+		function(e) {
+			$(this).removeClass('show');
+			$(this).find('.dropdown-menu').removeClass('show');
+		}
+	);
+});
+</script>
+ 
+
+		<div id="article-content">
+			<h1>H1 header</h1>
+
+<!-- how to col: individual articles can vary the col widths; for full-width total should = 12. 
+	col-md scales up (med to large desktops), and automatically stacks on phones and tablets (within the row). -->
+
+<p>site has two layouts: "articles", and "posts". Most pages are articles (like this one); posts are for news. </p>
+
+<div id="main-container">
+	<div class="row">
+	       <div class="col-md-4">
+           <p>Sample col with a list </p>
+            <ul>
+                <li>list 1</li>
+                <li>list 2</li>
+                <li>list 3</li>
+                <li>list 4</li>
+            </ul>
+        </div>
+
+       <div class="col-md-8">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
+anim id est laborum.
+          </p>
+        </div>
+   </div>
+    
+    <!-- possibly could add a clear here instead of row. see getbootstrap.com/docs/ examples grid -->
+    
+    <div class="row"> 
+        <div class="col-md-4">
+           <p>this is row 2 </p>
+          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium 
+            voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati 
+            cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id 
+            est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. 
+            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus 
+            id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor 
+            repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
+            saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque 
+            earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores 
+            alias consequatur aut perferendis doloribus asperiores repellat.
+          </p>
+        </div>
+
+       <div class="col-md-8">
+       <p>block has an image. </p>
+       
+    <img class="featurette-image img-responsive center-block" src="/assets/img/avatar.png" alt="Generic placeholder image" style="float:right; PADDING-LEFT: 15px" />       
+     </div>
+     
+        <hr />
+        
+        <div>
+        <img class="featurette-image img-responsive center-block" src="/assets/img/avatar.png" alt="Generic placeholder image" style="float:right; PADDING-LEFT: 15px" />
+        <p>Example of a section with a float-right image. size is fixed.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
+anim id est laborum.</p>
+        </div>
+        
+     
+    </div>
+</div>
+
+		</div>
+
+		<footer class="page-footer font-small blue-grey lighten-5">
+
+  <div style="background-color: #00658d;">
+    <div class="container text-white">
+
+      <!-- Grid row-->
+      <div class="row py-2 d-flex align-items-center">
+
+        <!-- Grid column -->
+        <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+          <h6 class="mb-3 ml-0 pl-0">For more information, contact:  <a class="text-white" href="mailto:a_burgos@ucsb.edu"> a_burgos@ucsb.edu</a></h6>
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-0 col-lg-7 text-center text-md-right">
+        
+        
+
+          <!-- Twitter -->
+   <a href="https://twitter.com/ca_reson" target="_blank"><img src="/assets/img/twitter.png" alt="Twitter" width="50" height="50"></a>
+        
+         
+          <!--Instagram-->
+          <a class="ins-ic text-white btn-lg" href="https://www.instagram.com/sbc_lter/">
+<a href="https://www.instagram.com/ca_reson/" target="_blank"><img src="/assets/img/instagram.png" alt="Instagram" width="70" height="70"></a> 
+
+
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row-->
+
+    </div>
+  </div>
+
+</footer>
+
+<!-- JS -->
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.4.0/js/bootstrap4-toggle.min.js"></script>
+
+
+
+	</body>
+
+</html>
