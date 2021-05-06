@@ -1,0 +1,128 @@
+---
+---
+@charset "utf-8";
+
+// bootstrap
+@import 'bootstrap/bootstrap';
+@import 'custom/includes/header';
+@import 'custom/includes/banner';
+@import 'custom/includes/loader';
+/*@import 'custom/includes/layers_table';*/
+/*@import 'custom/layouts/table';*/
+/*@import 'custom/layouts/gmap';*/
+
+/*@import 'custom/includes/table';*/
+/*@import 'custom/layouts/article';*/
+/*@import 'custom/layouts/profile';*/
+
+
+// Long brand title
+@media(min-width: 1250px) {
+	.text-long { display: block; }
+	.text-short { display: none; }
+}
+
+// Short brand title
+@media(max-width: 1250px) {
+	.text-long { display: none; }
+	.text-short { display: block; }
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-style: normal;
+	overflow-wrap: break-word;
+}
+
+.dropdown-submenu {
+	position: relative;
+}
+
+.dropdown-submenu a::after {
+	transform: rotate(-90deg);
+	position: absolute;
+	top: 1em;
+}
+
+.dropdown-submenu .dropdown-toggle {
+	margin-left: 15px;
+}
+
+.dropdown-submenu .dropdown-menu {
+	top: 0;
+	left: 100%;
+}
+
+.hide, .hidden {
+	display: none !important;
+}
+
+.col-2 {
+	width: unset !important;
+}
+
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+*::-webkit-scrollbar-track {
+    background-color: #f5f5f5;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+    background-color: #f5f5f5;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #003366;
+    border: 1px solid #f5f5f5;
+}
+
+.modal-dialog {
+	min-height: calc(100vh - 60px);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	overflow: auto;
+	max-width: 70%;
+	@media(max-width: 768px) {
+		min-height: calc(100vh - 20px);
+		max-width: unset;
+	}
+}
+
+
+// Google search bar
+#___gcse_0 {
+	width: 80%;
+	max-width: 800px;
+	margin: auto;
+
+	.gsc-control-cse {
+		border: unset !important;
+		background-color: unset !important;
+	}
+
+	.gstl_50 tr, #gsc-iw-id1, .gsc-input, .gsib_a {
+		border-radius: 5px;
+	}
+
+	.gsc-input {
+		padding: 0;
+	}
+}
+
+// Home page
+.carousel-item {
+	.title {
+		font-size: 1.2vw !important;
+	}
+
+	.subtitle {
+		font-size: 1.2vw !important;
+	}
+}

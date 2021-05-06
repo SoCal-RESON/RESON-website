@@ -1,0 +1,129 @@
+:root {
+	--menu-bg-color: #7b2e24;
+	/*menu-margin makes the logo icon move to the right of the page margin*/
+	--menu-margin: 10px;
+}
+
+// Expanded menu
+@media (min-width: 900px) {
+	:root {
+		--menu-dropdown-bg-color: #d9a494;
+		--menu-dropdown-fg-color: #ffffff;
+		--menu-dropdown-wrap: nowrap;
+	}
+	.dropdown:hover .dropdown-menu {
+		display: block;
+	}
+}
+
+// Collapsed menu
+@media (max-width: 900px) {
+	:root {
+		--menu-dropdown-bg-color: #d9a494;
+		--menu-dropdown-fg-color: #ffffff;
+		--menu-dropdown-wrap: pre-wrap;
+	}
+
+	.navbar-brand {
+		width: 100%;
+		overflow-x: hidden;
+	}
+}
+
+
+.navbar {
+	box-shadow: 1px 1px 3px var(--menu-bg-color);
+	opacity: 1;
+	background: $white;
+	z-index: 100;
+	background-color: var(--menu-bg-color);
+	padding: 0;
+
+	.container-fluid {
+		padding: 0;
+		margin: 0;
+	}
+
+	.navbar-toggler {
+		margin-right: var(--menu-margin);
+		margin-top: var(--menu-margin);
+		right: 0;
+		top: 0;
+		position: absolute;
+	}
+
+	.navbar-brand {
+		padding-left: var(--menu-margin);
+
+		#home-nav {
+			line-height: 48px;
+			height: 48px;
+
+			.text {
+				line-height: unset;
+				padding-left: 10px;
+				padding-right: 24px;
+				font-size: 1.5em;
+			}
+
+			img {
+				height: 48px;
+			}
+		}
+	}
+
+	.navbar-nav {
+		border-radius: 5px;
+
+		.nav-item {
+			padding: 0;
+			&.show {
+				background-color: var(--menu-dropdown-bg-color) !important;
+			}
+
+			.nav-link {
+				padding: 15px;
+				font-weight: bold;
+				white-space: nowrap;
+				color: white !important;
+				// background-color: var(--menu-bg-color) !important;
+				font-size: 1em;
+
+				&:hover {
+					background-color: var(--menu-dropdown-bg-color) !important;
+				}
+
+				&:focus { outline: unset; }
+
+				hr {
+					background-color: white;
+				}
+			}
+
+			.dropdown-menu {
+				background-clip: unset;
+				background-color: var(--menu-dropdown-bg-color);
+				padding: var(--menu-margin);
+				margin-top: 0;
+				border-radius: unset;
+				border: unset;
+
+				.dropdown-item {
+					color: var(--menu-dropdown-fg-color);
+					white-space: var(--menu-dropdown-wrap);
+
+					&:hover {
+						color: #87CEFA !important;
+						background-color: unset;
+					}
+				}
+
+				hr {
+					background-color: white;
+					margin-left: 15px;
+					margin-right: 15px;
+				}
+			}
+		}
+	}
+}
