@@ -1,0 +1,73 @@
+<div id="section_{{include.data.name}}" class="section mt-4">
+
+	<h3 id="table_{{include.data.name}}" class="table-title pl-1">
+		<strong>
+		{% if include.category_labels[include.data.name] %}
+			{{ include.category_labels[include.data.name] }}
+		{% else %}
+			{{ include.data.name }}
+		{% endif %}
+		</strong>
+	</h3>
+
+	<table class="table" name="table_{{include.data.name}}" style="font-size: {{include.table_font_size}}px;">
+
+		<thead id="table_header_{{include.data.name}}">
+			<tr class="row title-row" style="word-wrap: break-word;">
+
+			{% for column in include.columns %}
+				<th class="cell col-{{ include.columns_size[forloop.index0] }} row sort-btn" style="justify-content: space-between;">
+					<strong> {{ column }} </strong>
+					<img src="/assets/img/sort_white.png" style="height: 15px; width: 15px; margin: 5px;" />
+				</th>
+			{% endfor %}
+
+			</tr>
+		</thead>
+
+		<tbody id="myTable">
+		{% for itemrow in include.data.items %}
+
+			<!-- Enable URL -->
+			{% if include.urlkey and itemrow[include.urlkey] != '' %}
+
+				<!-- Enable cell click -->
+				{% if include.urlcell %}
+					<tr class="row table_row_{{include.data.name}}" data-href='{{ itemrow[include.urlkey] }}' style="cursor: pointer">
+						{% for filter in include.dataFilter %}
+							{% if forloop.index0 == include.urlcell %}
+								<td class="cell col-{{ include.columns_size[forloop.index0] }}" data-order="{{ itemrow['surName'] }}"> 
+									<a href="{{ itemrow[include.urlkey] }}" target="_blank">
+										{{ itemrow[filter] }}
+									</a>
+								</td>
+							{% else %}
+								<td class="cell col-{{ include.columns_size[forloop.index0] }}" data-order="{{ itemrow['surName'] }}"> {{ itemrow[filter] }} </td>
+							{% endif %}
+						{% endfor %}
+					</tr>
+
+				<!-- Enable row click -->
+				{% else %}
+					<tr class="row clickable-row table_row_{{include.data.name}}" data-href='{{ itemrow[include.urlkey] }}' style="cursor: pointer">
+						{% for filter in include.dataFilter %}
+							<td class="cell col-{{ include.columns_size[forloop.index0] }}" data-order="{{ itemrow['surName'] }}"> {{ itemrow[filter] }} </td>
+						{% endfor %}
+					</tr>
+				{% endif %}
+
+			<!-- Disable URL -->
+			{% else %}
+				<tr class="row table_row_{{include.data.name}}">
+					{% for filter in include.dataFilter %}
+						<td class="cell col-{{ include.columns_size[forloop.index0] }}">{{ itemrow[filter] }}</td>
+					{% endfor %}
+				</tr>
+			{% endif %}
+
+		{% endfor %}
+		</tbody>
+
+	</table>
+
+</div>
