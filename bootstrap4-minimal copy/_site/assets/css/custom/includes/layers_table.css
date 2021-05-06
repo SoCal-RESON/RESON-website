@@ -1,0 +1,23 @@
+.layers_head { vertical-align: middle; align: center; }
+
+.table-section { height: 100%; flex-grow: 100; }
+
+table { margin-bottom: 0 !important; height: 100%; }
+
+table tr:hover { box-shadow: unset !important; }
+
+table tr td, table tr th { border: 1px solid #dee2e6 !important; padding: 1vh !important; font-size: 12px; }
+
+table tr td h3, table tr th h3 { font-size: 15px; }
+
+table tr td:last-child, table tr th:last-child { text-align: center; }
+
+#layer-modal .collection-section:last-child { margin-bottom: 0; }
+
+#layer-modal .collection-section .package-section { display: flex; flex-wrap: wrap; }
+
+#layer-modal .collection-section .package-section .package-link { width: 50%; }
+
+#layer-modal .collection-section .package-section .package-link a { color: #666600; text-decoration: underline; width: inherit; white-space: normal; text-align: left; }
+
+/*# sourceMappingURL=layers_table.css.map */

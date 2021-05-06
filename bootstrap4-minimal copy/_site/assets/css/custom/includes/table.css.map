@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "table.css",
+	"sources": [
+		"table.scss"
+	],
+	"sourcesContent": [
+		".table {\n\tbox-shadow: 1px 1px 3px black;\n\n\t.cell {\n\t\toverflow-wrap: break-word !important;\n\t\tpadding-top: 7px !important;\n\t\tpadding-bottom: 7px !important;\n\t\tborder-top: unset !important;\n\t\tborder-bottom: 1px solid #dee2e6 !important;\n\t\talign-items: center;\n\t}\n\n\t.col-0 {\n\t\tdisplay: none;\n\t}\n\n\ttr {\n\t\t&:hover {\n\t\t\tbox-shadow: 0 0 3px black;\n\t\t}\n\n\t\t&:last-child .cell {\n\t\t\tborder-bottom: unset !important;\n\t\t}\n\t}\n\n\t.title-row {\n\t\tbackground-color: #003366;\n\t\tcolor: white;\n\n\t\tth {\n\t\t\tborder: unset !important;\n\t\t}\n\n\t\t&:hover {\n\t\t\tbox-shadow: unset;\n\t\t\tcursor: pointer !important;\n\t\t}\n\t}\n}\n\n.hidden {\n\tdisplay: none !important;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,MAAM,CAAC,EACN,UAAU,EAAE,iBAAiB,GAsC7B;;AAvCD,AAGC,MAHK,CAGL,KAAK,CAAC,EACL,aAAa,EAAE,qBAAqB,EACpC,WAAW,EAAE,cAAc,EAC3B,cAAc,EAAE,cAAc,EAC9B,UAAU,EAAE,gBAAgB,EAC5B,aAAa,EAAE,4BAA4B,EAC3C,WAAW,EAAE,MAAM,GACnB;;AAVF,AAYC,MAZK,CAYL,MAAM,CAAC,EACN,OAAO,EAAE,IAAI,GACb;;AAdF,AAiBE,MAjBI,CAgBL,EAAE,CACC,KAAK,CAAC,EACP,UAAU,EAAE,aAAa,GACzB;;AAnBH,AAqBE,MArBI,CAgBL,EAAE,CAKC,UAAU,CAAC,KAAK,CAAC,EAClB,aAAa,EAAE,gBAAgB,GAC/B;;AAvBH,AA0BC,MA1BK,CA0BL,UAAU,CAAC,EACV,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,KAAK,GAUZ;;AAtCF,AA8BE,MA9BI,CA0BL,UAAU,CAIT,EAAE,CAAC,EACF,MAAM,EAAE,gBAAgB,GACxB;;AAhCH,AAkCE,MAlCI,CA0BL,UAAU,CAQP,KAAK,CAAC,EACP,UAAU,EAAE,KAAK,EACjB,MAAM,EAAE,kBAAkB,GAC1B;;AAIH,AAAA,OAAO,CAAC,EACP,OAAO,EAAE,eAAe,GACxB"
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "layers_table.css",
+	"sources": [
+		"layers_table.scss"
+	],
+	"sourcesContent": [
+		".layers_head {\n\tvertical-align: middle;\n\talign: center;\n}\n\n.table-section {\n\theight: 100%;\n\tflex-grow: 100;\n}\n\ntable {\n\tmargin-bottom: 0 !important;\n\theight: 100%;\n\n\ttr {\n\t\t&:hover {\n\t\t\tbox-shadow: unset !important;\n\t\t}\n\n\t\ttd, th {\n\t\t\tborder: 1px solid #dee2e6 !important;\n\t\t\tpadding: 1vh!important;\n\t\t\tfont-size: 12px;\n\n\t\t\th3 {\n\t\t\t\tfont-size: 15px;\n\t\t\t}\n\t\t\t\n\n\t\t\t&:last-child {\n\t\t\t\ttext-align: center;\n\t\t\t}\n\t\t}\n\t}\n}\n\n#layer-modal {\n\t.collection-section {\n\t\t// margin-bottom: 50px;\n\n\t\t&:last-child {\n\t\t\tmargin-bottom: 0;\n\t\t}\n\n\t\t.package-section {\n\t\t\tdisplay: flex;\n\t\t\tflex-wrap: wrap;\n\n\t\t\t.package-link {\n\t\t\t\twidth: 50%;\n\n\t\t\t\ta {\n\t\t\t\t\tcolor: #666600;\n\t\t\t\t\ttext-decoration: underline;\n\t\t\t\t\twidth: inherit;\n\t\t\t\t\twhite-space: normal;\n\t\t\t\t\ttext-align: left;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,YAAY,CAAC,EACZ,cAAc,EAAE,MAAM,EACtB,KAAK,EAAE,MAAM,GACb;;AAED,AAAA,cAAc,CAAC,EACd,MAAM,EAAE,IAAI,EACZ,SAAS,EAAE,GAAG,GACd;;AAED,AAAA,KAAK,CAAC,EACL,aAAa,EAAE,YAAY,EAC3B,MAAM,EAAE,IAAI,GAsBZ;;AAxBD,AAKE,KALG,CAIJ,EAAE,CACC,KAAK,CAAC,EACP,UAAU,EAAE,gBAAgB,GAC5B;;AAPH,AASE,KATG,CAIJ,EAAE,CAKD,EAAE,EATJ,KAAK,CAIJ,EAAE,CAKG,EAAE,CAAC,EACN,MAAM,EAAE,4BAA4B,EACpC,OAAO,EAAE,GAAG,CAAA,UAAU,EACtB,SAAS,EAAE,IAAI,GAUf;;AAtBH,AAcG,KAdE,CAIJ,EAAE,CAKD,EAAE,CAKD,EAAE,EAdL,KAAK,CAIJ,EAAE,CAKG,EAAE,CAKL,EAAE,CAAC,EACF,SAAS,EAAE,IAAI,GACf;;AAhBJ,AAmBG,KAnBE,CAIJ,EAAE,CAKD,EAAE,CAUC,UAAU,EAnBf,KAAK,CAIJ,EAAE,CAKG,EAAE,CAUH,UAAU,CAAC,EACZ,UAAU,EAAE,MAAM,GAClB;;AAKJ,AAIE,YAJU,CACX,mBAAmB,CAGhB,UAAU,CAAC,EACZ,aAAa,EAAE,CAAC,GAChB;;AANH,AAQE,YARU,CACX,mBAAmB,CAOlB,gBAAgB,CAAC,EAChB,OAAO,EAAE,IAAI,EACb,SAAS,EAAE,IAAI,GAaf;;AAvBH,AAYG,YAZS,CACX,mBAAmB,CAOlB,gBAAgB,CAIf,aAAa,CAAC,EACb,KAAK,EAAE,GAAG,GASV;;AAtBJ,AAeI,YAfQ,CACX,mBAAmB,CAOlB,gBAAgB,CAIf,aAAa,CAGZ,CAAC,CAAC,EACD,KAAK,EAAE,OAAO,EACd,eAAe,EAAE,SAAS,EAC1B,KAAK,EAAE,OAAO,EACd,WAAW,EAAE,MAAM,EACnB,UAAU,EAAE,IAAI,GAChB"
+}

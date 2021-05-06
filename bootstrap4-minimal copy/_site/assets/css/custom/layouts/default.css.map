@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "default.css",
+	"sources": [
+		"default.scss"
+	],
+	"sourcesContent": [
+		"@media screen and (orientation: portrait) {\n\t:root {\n\t\t--layout-padding-v: 2vw;\n\t\t--layout-padding-h: 5vw;\n\t}\n}\n\n@media screen and (orientation: landscape) {\n\t:root {\n\t\t--layout-padding-v: 5vh;\n\t\t--layout-padding-h: 20vh;\n\t}\n}\n\n \n#main-container {\n\tpadding: 2%;\n}\n\n\nblockquote {\n\tborder-left: 5px solid #eee;\n\tpadding: 10px 20px;\n\tmargin: 0 0 20px;\n\tpage-break-inside: avoid;\n}\n\n\n\n/* Comment */\n\n.formbox {\nbackground-color: #d9a494;\n} \n"
+	],
+	"names": [],
+	"mappings": "AAAA,MAAM,mCACL,IAAC,AAAD,IAAK,CAAC,EACL,kBAAkB,CAAA,IAAC,EACnB,kBAAkB,CAAA,IAAC,GACnB,EAAA;;AAGF,MAAM,oCACL,IAAC,AAAD,IAAK,CAAC,EACL,kBAAkB,CAAA,IAAC,EACnB,kBAAkB,CAAA,KAAC,GACnB,EAAA;;AAIF,AAAA,eAAe,CAAC,EACf,OAAO,EAAE,EAAE,GACX;;AAGD,AAAA,UAAU,CAAC,EACV,WAAW,EAAE,cAAc,EAC3B,OAAO,EAAE,SAAS,EAClB,MAAM,EAAE,QAAQ,EAChB,iBAAiB,EAAE,KAAK,GACxB;;AAID,aAAa;AAEb,AAAA,QAAQ,CAAC,EACT,gBAAgB,EAAE,OAAO,GACxB"
+}

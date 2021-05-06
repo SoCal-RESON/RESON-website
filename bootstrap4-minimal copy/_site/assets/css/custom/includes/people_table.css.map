@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "people_table.css",
+	"sources": [
+		"people_table.scss"
+	],
+	"sourcesContent": [
+		"@media (orientation: portrait) {\n\ttd, th {\n\t\tdisplay: none !important;\n\n\t\t&:nth-child(2), &:nth-child(1) {\n\t\t\tdisplay: table-cell !important;\n\t\t}\n\t}\n\n\t.cell {\n\t\tmax-width: 50% !important;\n\t\tflex: 0 0 50% !important;\n\t}\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,MAAM,wBACL,GAAA,AAAA,EAAE,EAAE,EAAE,CAAC,EACN,OAAO,EAAE,eAAe,GAKxB,CAND,AAGC,EAHC,CAGC,SAAU,CAAA,CAAC,GAHd,EAAE,CAGiB,SAAU,CAAA,CAAC,GAH1B,EAAE,CAGH,SAAU,CAAA,CAAC,GAHV,EAAE,CAGa,SAAU,CAAA,CAAC,EAAE,EAC9B,OAAO,EAAE,qBAAqB,GAC9B,CAGF,AAAA,KAAK,CAAC,EACL,SAAS,EAAE,cAAc,EACzB,IAAI,EAAE,kBAAkB,GACxB,EALA"
+}

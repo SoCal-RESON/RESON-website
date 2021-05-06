@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "search_bar.css",
+	"sources": [
+		"search_bar.scss"
+	],
+	"sourcesContent": [
+		"#search-bar {\n\tposition: absolute;\n\ttop: 5px;\n\tright: 0;\n\twidth: 40%;\n}\n\n#table-content {\n\tposition: relative;\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,WAAW,CAAC,EACX,QAAQ,EAAE,QAAQ,EAClB,GAAG,EAAE,GAAG,EACR,KAAK,EAAE,CAAC,EACR,KAAK,EAAE,GAAG,GACV;;AAED,AAAA,cAAc,CAAC,EACd,QAAQ,EAAE,QAAQ,GAClB"
+}

@@ -1,0 +1,13 @@
+@media screen and (orientation: portrait) { :root { --layout-padding-v: 5vw; --layout-padding-h: 5vw; } }
+
+@media screen and (orientation: landscape) { :root { --layout-padding-v: 5vh; --layout-padding-h: 20vh; } }
+
+#article-content { padding: var(--layout-padding-v) var(--layout-padding-h); }
+
+blockquote { border-left: 5px solid #eee; padding: 10px 20px; margin: 0 0 20px; page-break-inside: avoid; }
+
+.formbox { background-color: #d9a494; }
+
+.peoplebox { background-color: #00658d; }
+
+/*# sourceMappingURL=article.css.map */
