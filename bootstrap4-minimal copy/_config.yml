@@ -1,0 +1,29 @@
+# Site settings
+title: SBC LTER
+email: sbclter@msi.ucsb.edu
+author: SBC LTER Information Manager
+description: The  objective of the Santa Barbara Coastal Long Term Ecological Research project is to investigate the land and ocean processes structuring giant kelp forest ecosystems (Macrocystis pyrifera) of the Santa Barbara Channel.
+url: 
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: /assets/css
+
+markdown: kramdown
+
+plugins_dir: _plugins
+
+
+# To use:
+# 1. copy this file to "_config.yml"
+# 2. add your API key.  
+# the config.yml file is ignored by git
+google_maps_api_key: INSERT_YOUR_API_KEY
+
+page_gen:
+  - data: 'people_bios'
+    template: 'profile'
+    name: 'databaseID'
+    dir: 'about/people'
+
