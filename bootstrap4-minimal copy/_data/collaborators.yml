@@ -1,0 +1,46 @@
+# partner links
+
+- name: "Channel Islands National Marine Sanctuary"
+  acronym: "CINMS"
+  description: "The Sanctuary protects 1,470 square miles of ocean waters around the Northern Channel Islands and includes a system of marine reserves and conservation areas. SBC LTER researchers collaborate
+  with Sanctuary scientists to support management of the Santuary"
+  link: "http://channelislands.noaa.gov/"
+  
+- name: "Channel Islands National Park"
+  acronym:
+  description: "The park encompasses five islands and their ocean environment offshore of the Santa Barbara area preserving and protecting a wealth of natural and 
+  cultural resources. In the park, SBC LTER has sampling sites on Santa Cruz Island, and additional targeted projects at other islands."
+  link: "http://www.nps.gov/chis"
+
+- name: "Southern California Coastal Ocean Observing System"
+  acronym: "SCCOOS"
+  description: "The SCCOOS area covers the Southern California Bight from Santa Barbara to the US-Mexico border. They provide scientific data and information necessary to address coastal issues, 
+  including data for surface current mapping, water conditions and harmful algal blooms. "
+  link: "http://www.sccoos.org/"
+
+- name: "Plumes and Blooms Project"
+  acronym: "PnB"
+  description: 'A NASA-funded study at UCSB investigating marine plankton blooms associated with runoff since 1996. The goal of this project is to develop new satellite ocean color algorithms for 
+  coastal waters influenced by terrigenous materials (sediments, dissolved organic materials, etc.). In situ optical quantities and in-water constituents are collected on a 7-station 
+  transect across the Santa Barbara Channel and then related to simultaneous ocean color imagery.'
+  link: "http://www.oceancolor.ucsb.edu/plumes_and_blooms/"
+
+- name: "Santa Barbara Channel Marine Biodiversity Network"
+  acronym: "SBC MBON"
+  description: "The Santa Barbara Channel Marine Biodiversity Observation Network (SBC MBON) provides a complete picture of marine biodiversity in the region. Thee project is developing a widely applicable research model that integrates new information with existing data to improve current research and monitoring programs."
+  link: "http://sbc.marinebon.org/"
+
+
+- name: "San Onofre Nuclear Generating Station Mitigation Monitoring Program"
+  acronym: UCSB SONGS
+  description: "UCSB scientists working under the direction of the Executive Director of the California Coastal Commission (CCC) design and implement monitoring programs to determine the effectiveness of San Onofre Nuclear Generating Station (SONGS) mitigation projects as a condition of their coastal development permit."
+  link: "http://marinemitigation.msi.ucsb.edu/"
+
+
+- name: "Partnership for Interdisiplinary Studies of Coastal Oceans"
+  acronym: "PISCO"
+  description: 'PISCO is a large-scale marine science research program established in 1999 that focuses on understanding the nearshore ecosystems of the U.S. West Coast. Composed of collaborating scientists from 
+  four universities:  Oregon State University, Stanford University’s Hopkins Marine Station and two University of California campuses, Santa Cruz Santa Barbara. '
+  link: "http://www.piscoweb.org/"
+
+
