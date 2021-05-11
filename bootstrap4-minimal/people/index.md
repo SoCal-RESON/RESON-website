@@ -82,7 +82,7 @@ description: People and organizations assocaited with RESON.
  </div>     
  
  <div class="col-md-3">
-      <img class="img-responsive" src="/assets/img/A_Burgos.jpg" class="img-fluid" class="img-thumbnail">
+      <img class="img-responsive" src="/assets/img/A_Burgos.JPG" class="img-fluid" class="img-thumbnail">
       <div class="peoplebox">
       <p class="text-white"> <b> Ali Burgos </b> UCSB - <br/> Project Coordinator  </p> 
       </div>
