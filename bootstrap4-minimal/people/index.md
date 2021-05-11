@@ -22,7 +22,7 @@ description: People and organizations assocaited with RESON.
 
 <div class="col-md-3">
 
-      <img class="img-responsive" src="/assets/img/bob.jpg" class="img-fluid" class="img-thumbnail" > 
+      <img class="img-responsive" src="/assets/img/Bob.jpg" class="img-fluid" class="img-thumbnail" > 
       <div class="peoplebox">
       <p class="text-white"> <b> <u> <a class="text-white" href="https://msi.ucsb.edu/people/research-scientists/robert-miller"> Bob Miller (PI) </a></u> </b> <br/> UCSB - Coastal marine ecology</p> 
       </div>
