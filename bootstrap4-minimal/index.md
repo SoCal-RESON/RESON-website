@@ -120,7 +120,7 @@ description: Home page description here.
         
         <div class="row my-3">
           <div class = "col text-center">
-            <img src="/assets/img/UCSB.png" class="img-fluid" alt="UCSB logo" width="100" height="100">
+            <img src="/assets/img/ucsb.png" class="img-fluid" alt="UCSB logo" width="100" height="100">
           </div>
         </div>
         
