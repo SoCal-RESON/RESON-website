@@ -22,7 +22,7 @@ description: News Items
 </div>
 
 <div class="col-md-6">
-<img class="img-thumbnail img-responsive" src="/assets/img/A_Burgos.jpg" class="img-fluid">
+<img class="img-thumbnail img-responsive" src="/assets/img/A_Burgos.JPG" class="img-fluid">
 
 <div class="formbox" >
 <p> RESON recruits Ali Burgos as the new project coordinator</p>
