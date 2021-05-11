@@ -1,3 +1,0 @@
-@media (orientation: portrait) { td, th { display: none !important; } td:nth-child(2), td:nth-child(1), th:nth-child(2), th:nth-child(1) { display: table-cell !important; } .cell { max-width: 50% !important; flex: 0 0 50% !important; } }
-
-/*# sourceMappingURL=people_table.css.map */

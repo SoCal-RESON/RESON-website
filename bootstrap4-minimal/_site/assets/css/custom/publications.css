@@ -1,5 +1,0 @@
-.tab-content { margin: 0 1vh; }
-
-@media (orientation: portrait) { .cell:first-child { max-width: 25%; flex: 0 0 50% !important; } .cell:nth-child(2) { max-width: 75%; } }
-
-/*# sourceMappingURL=publications.css.map */
