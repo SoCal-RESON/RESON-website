@@ -9,3 +9,6 @@ The first one above will be the primary URL and we will likely place permanent r
 
 this is a test addtion, to show Ali
 And this is Ali's test example
+
+# Github Webhooks
+Utilized Github Webhooks to trigger jekyll rebuilds (in testing)
