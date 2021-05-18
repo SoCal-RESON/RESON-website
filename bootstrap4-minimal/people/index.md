@@ -31,7 +31,7 @@ description: People and organizations assocaited with RESON.
 <div class="col-md-3">
       <img class="img-responsive" src="/assets/img/erika.jpg" class="img-fluid" class="img-thumbnail">
       <div class="peoplebox">
-      <p class="text-white"> <b><u>  <a class="text-white" href="https://www.eemb.ucsb.edu/people/faculty/eliason"> Erika Eliason </a></u> </b> <br/> UCSB - Fish physiology </p> 
+      <p class="text-white"> <b><u>  <a class="text-white" href="https://www.eemb.ucsb.edu/people/faculty/eliason"> Erika Eliason </a></u> </b> <br/> UCSB - Physiology and animal behavior </p> 
       </div>
  </div>     
       
@@ -40,7 +40,7 @@ description: People and organizations assocaited with RESON.
 <div class="col-md-3">
       <img class="img-responsive" src="/assets/img/Nick.jpg" class="img-fluid" class="img-thumbnail">
       <div class="peoplebox">
-      <p class="text-white"> <b> <u> <a class="text-white" href="https://msi.ucsb.edu/people/faculty/nick-nidzieko"> Nick Nidzieko </a></u> </b> <br/> UCSB - Estuarine and coastal circulation  </p> 
+      <p class="text-white"> <b> <u> <a class="text-white" href="https://msi.ucsb.edu/people/faculty/nick-nidzieko"> Nick Nidzieko </a></u> </b> <br/> UCSB - Coastal oceanography, autonomous sensing  </p> 
       </div>
  </div>     
 
@@ -68,9 +68,9 @@ description: People and organizations assocaited with RESON.
 
 
 <div class="col-md-3">
-      <img class="img-responsive" src="/assets/img/manu.jpg" class="img-fluid" class="img-thumbnail">
+      <img class="img-responsive" src="/assets/img/manu1.png" class="img-fluid" class="img-thumbnail">
       <div class="peoplebox">
-      <p class="text-white"> <b> <u> <a class="text-white" href="https://eas.gatech.edu/people/di-lorenzo-dr-emanuele">  Emanuele Di Lorenzo </a></u> </b> <br/> Georgia Tech - Ocean and climate dynamics  </p> 
+      <p class="text-white"> <b> <u> <a class="text-white" href="https://eas.gatech.edu/people/di-lorenzo-dr-emanuele">  Emanuele Di Lorenzo </a></u> </b> <br/> Georgia Tech - Ocean and climate modeling  </p> 
       </div>
  </div>     
  
@@ -89,4 +89,19 @@ description: People and organizations assocaited with RESON.
  </div>     
 
 </div>
+
+<div>
+<br/>
+<hr/>
+<h4> <u> Co-PI's </u> </h4>
+<li>Ana Sirovic - Texas A&M - Marine bioacoustics </li>
+<li>Chandra Krintz - UCSB - Adaptive computing environments </li>
+<li>David Siegel - UCSB - Interdisciplinary oceanography </li>
+<li>Ed Parnell - UCSD - Coastal shelf ecosystems</li>
+<li>Francisco Chavez - MBARI - Biological oceanography </li>
+<li>Holly Moeller - UCSB - Marine ecology </li>
+<li>Kyle Cavanaugh - UCLA - Remote sensing and marine ecology</li>
+<li>Rich Wolski - UCSB - Cloud, parallel and distributed computing </li>
+<li>Thomas Bell - UCSB - Remote sensing and marine ecology</li>
+
 
