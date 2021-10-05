@@ -5,19 +5,24 @@ description: page description here.
 
 ---
 
-<h1>Workshop 1: June 29 - 30</h1>
+<h1>Workshop 1: June 29 - 30, 2021</h1>
 
 <div id="main-container">
 
          <blockquote>
-            <p class="lead">RESON will host a virtual workshop to bring together a diverse network of people who are invested in the long-term health of California's coastal ecosystem. By determining the current and emerging coastal monitoring needs, the group will identify ecosystem variables that are critical to evaluate ecosystem stress on biodiversity, ecosystem health, and animal migration. <br/>
-            To get involved, email Ali Burgos at <a href="mailto:a_burgos@ucsb.edu"> a_burgos@ucsb.edu</a>  </p>
+            <p class="lead">RESON hosted a 2-day virtual workshop to bring together a diverse network of people who are invested in the long-term health of California's coastal ecosystem. 50 participants joined to discuss their ecosystem monitoring needs and help articulate the societal need for RESON <br/> </p>
 
 <!-- close row holding blockquote -->        
 </blockquote>
       
 
 <!-- divider -->
+<div>
+<hr/>
+
+
+   For a synopsis on the workshop check out our 1 pager<a href="{{site.baseurl}}/resources/workshop1/workshop1_synopsis.pdf"> here</a>. View the full workshop report <a href="{{site.baseurl}}/resources/workshop1/workshop_report.pdf"> here</a>. 
+</div>
 
           <hr/>
           </div>
@@ -27,7 +32,7 @@ description: page description here.
    
 
 
-           <p>Collaborations include:</p>
+           <p>Collaborations included:</p>
             <ul>
                 <li>University of CA, Santa Barbara</li>
                 <li>University of CA, Los Angeles</li>
@@ -45,6 +50,9 @@ description: page description here.
                             <li>California Cooperative Oceanic Fisheries Investigations (CalCOFI)</li>
                               <li>Southern CA Coastal Water Research Project (SCCWRP)</li>
                               <li>Santa Ynez Chumash Environmental Office</li>
+                              <li>Coastal Band of the Chumash Nation</li>
+                              <li>Wishtoyo Chumash Foundation</li>
+                              <li>CA Department of Fish and Wildlife</li>
 </ul>
 </div>
 
@@ -54,8 +62,8 @@ description: page description here.
 <br/>
  	<li>NOAA Ocean Acidification Program</li>
                <li>Southwest Fisheries Science Center (SWFSC)</li>
-                <li>CeNCOOS</li>
-                  <li>SCCOOS</li>
+                <li>Central & Northern CA Ocean Observing System (CeNCOOS)</li>
+                  <li>Southern CA Ocean Observing System (SCCOOS)</li>
                 <li>Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO)</li>
                  <li>Monterey Bay Aquarium Research Institute (MBARI)</li>
                <li>Woods Hole Oceanographic Institution (WHOI)</li>
@@ -65,17 +73,14 @@ description: page description here.
                 <li>CA Sea Urchin Commission</li>
                  <li>Heal the Bay</li>
                    <li>SOFAR Ocean Technologies</li>
-                   <li>LA Waterkeeper</li>
-                   <li>SB Channelkeeper</li>
+                   <li>Los Angeles Waterkeeper</li>
+                   <li>Santa Barbara Channelkeeper</li>
+                   <li>Island Packers Cruises </li>
+                   <li>The Nature Conservancy</li>
+                   <li>Bureau of Land Management, CA Coastal National Monument</li>
                    
  </ul>                                       
 
 
    </div>
   
-<div>
-<hr/>
-
-
-   For more information, download the workshop 1 pager<a href="{{site.baseurl}}/resources/workshop1/workshop1pager.pdf"> here</a>. 
-</div>
