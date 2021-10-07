@@ -10,7 +10,7 @@ description: page description here.
 <div id="main-container">
 
          <blockquote>
-            <p class="lead">RESON hosted a 2-day virtual workshop to bring together a diverse network of people who are invested in the long-term health of California's coastal ecosystem. 50 participants joined to discuss their ecosystem monitoring needs and help articulate the societal need for RESON <br/> </p>
+            <p class="lead">RESON hosted a 2-day virtual workshop to bring together a diverse network of people who are invested in the long-term health of California's coastal ecosystem. 50 participants joined to discuss their ecosystem monitoring needs and help articulate the societal need for RESON. <br/> </p>
 
 <!-- close row holding blockquote -->        
 </blockquote>
@@ -20,17 +20,32 @@ description: page description here.
 <div>
 <hr/>
 
+<div class="row">
 
-   For a synopsis on the workshop check out our 1 pager<a href="{{site.baseurl}}/resources/workshop1/workshop1_synopsis.pdf"> here</a>. View the full workshop report <a href="{{site.baseurl}}/resources/workshop1/workshop_report.pdf"> here</a>. 
+<div class="col-md-6">
+
+<div class="formbox" >
+<p>  For a synopsis check out our 1 paper </p>
+<a href="{{site.baseurl}}/resources/workshop1/workshop1_synopsis.pdf">
+<img class="img-thumbnail img-responsive" src="/resources/workshop1/workshop1_synopsis.jpeg" class="img-fluid">
+</a> 
+</div> <!--end formbox-->
 </div>
 
-          <hr/>
-          </div>
+<div class="col-md-6">
+<div class="formbox" >
+<p>  View the full workshop report here </p>
+<a href="{{site.baseurl}}/resources/workshop1/workshop_report.pdf">
+<img class="img-thumbnail img-responsive" src="/resources/workshop1/workshop_report.jpeg" class="img-fluid">
+</a>
+</div>
+</div>
+
           
 <div  class="row">
 <div class="col-md-6">
    
-
+<br><br><br>
 
            <p>Collaborations included:</p>
             <ul>
@@ -58,8 +73,8 @@ description: page description here.
 
 <div class="col-md-6">
 <ul>
-<br/>
-<br/>
+<br>
+<br> <br><br>
  	<li>NOAA Ocean Acidification Program</li>
                <li>Southwest Fisheries Science Center (SWFSC)</li>
                 <li>Central & Northern CA Ocean Observing System (CeNCOOS)</li>
