@@ -10,7 +10,7 @@ description: page description here.
 <div id="main-container">
 
          <blockquote>
-            <p class="lead">RESON hosted a 2-day virtual workshop to bring together a diverse network of people who are invested in the long-term health of California's coastal ecosystem. 50 participants joined to discuss their ecosystem monitoring needs and help articulate the societal need for RESON. <br/> </p>
+            <p class="lead">RESON hosted a 2-day virtual workshop to bring together a diverse network of people who are invested in the long-term health of California's coastal ecosystem. 50 participants joined to discuss their ecosystem monitoring needs and help articulate the societal need for RESON. Find the workshop report, opening remarks video, and collaborations below. <br/> </p>
 
 <!-- close row holding blockquote -->        
 </blockquote>
@@ -27,7 +27,7 @@ description: page description here.
 <div class="formbox" >
 <p>  For a synopsis check out our 1 paper </p>
 <a href="{{site.baseurl}}/resources/workshop1/workshop1_synopsis.pdf">
-<img class="img-thumbnail img-responsive" src="/resources/workshop1/workshop1_synopsis.jpeg" class="img-fluid">
+<img class= "img-responsive" src="/resources/workshop1/workshop1_synopsis.jpeg" class="img-fluid" class="img-thumbnail" >
 </a> 
 </div> <!--end formbox-->
 </div>
@@ -36,18 +36,26 @@ description: page description here.
 <div class="formbox" >
 <p>  View the full workshop report here </p>
 <a href="{{site.baseurl}}/resources/workshop1/workshop_report.pdf">
-<img class="img-thumbnail img-responsive" src="/resources/workshop1/workshop_report.jpeg" class="img-fluid">
+<img class= "img-responsive" src="/resources/workshop1/workshop_report.jpeg" class="img-fluid" class="img-thumbnail">
 </a>
 </div>
 </div>
 
+<div>
+
+<br><br><br>
+<!--opening remarks-->
+<div class="embed-responsive embed-responsive-16by9"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RamDH3Qcznk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
           
 <div  class="row">
 <div class="col-md-6">
-   
-<br><br><br>
 
-           <p>Collaborations included:</p>
+
+<br><br>
+
+           <p><u>Collaborations included:</u></p>
             <ul>
                 <li>University of CA, Santa Barbara</li>
                 <li>University of CA, Los Angeles</li>
