@@ -55,4 +55,8 @@ We plan to do this by creating a diverse network of people including researchers
 
 </div>
 
+<div>
+<hr>
+<p> For an overview of RESON, download and view our one-pager <a href="{{site.baseurl }}/about/1_pager.pdf"> here. </a></p>
+
 
