@@ -21,8 +21,10 @@ description: page description here.
   </div>
 </div>
 
+
+<p><center> RSVPs due Jan. 21, 2022</center></p>
 <p><center> Link to the Zoom call will be sent via email</center></p>
-<p><center> For workshop inquiries email the RESON Coordinator,  <a href="mailto:a_burgos@ucsb.edu">Ali Burgos</a> </center></p>
+<p><center> For workshop inquiries, email the RESON Coordinator,  <a href="mailto:a_burgos@ucsb.edu">Ali Burgos</a> </center></p>
 
 
 <hr/>
