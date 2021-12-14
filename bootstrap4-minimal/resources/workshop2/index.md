@@ -11,7 +11,7 @@ description: page description here.
 
 <p><center><b> February 9th & 10th, 2022</b> </center></p>
 <p><center><b> 9:00 am - 12:00 pm (PST)</b> </center></p>
-
+<p><center><b> Virtual</b> </center></p>
 
 <div class="container">
   <div class="row">
@@ -76,7 +76,7 @@ This workshop will explore various technologies to enhance the monitoring of key
 <p> &emsp; b) What information would be most desirable from an ecosystem modeling perspective? </p>
 
 <p><b> Outreach </b></p>
-<p> &emsp; a)What technologies support community science initiatives? </p>
+<p> &emsp; a) What technologies support community science initiatives? </p>
 <p> &emsp; b) What other partnerships or collaborations would support this work and how? </p>
 
 <br>
