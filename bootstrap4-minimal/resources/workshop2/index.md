@@ -9,7 +9,7 @@ description: page description here.
 <hr/>
 <div id="main-container">
 
-<p><center><b> February 8th & 9th, 2022</b> </center></p>
+<p><center><b> February 9th & 10th, 2022</b> </center></p>
 <p><center><b> 9:00 am - 12:00 pm (PST)</b> </center></p>
 
 
