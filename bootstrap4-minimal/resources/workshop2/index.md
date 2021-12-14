@@ -40,7 +40,7 @@ This workshop will explore various technologies to enhance the monitoring of key
 <div class="row">
 <div class="col-md-6">
 
-<p><u><b>Day 1, Feb. 8: </b></u></p> 
+<p><u><b>Day 1, Feb. 9: </b></u></p> 
 
 <p>9:00 - 9:30|	Introductions + overview of RESON </p>
 <p>9:30 - 10:00| Presentations of current technologies and monitoring programs</p>
@@ -49,7 +49,7 @@ This workshop will explore various technologies to enhance the monitoring of key
 </div>
 
 <div class="col-md-6">
-<p><u><b>Day 2, Feb. 9:</b></u></p> 
+<p><u><b>Day 2, Feb. 10:</b></u></p> 
 <p>9:00 - 9:15|	Introductions + overview from day 1</p>
 <p>9:15 - 9:30|	Final discussion and thoughts from day 1 topics</p>
 <p>9:30 - 11:30| Breakout rooms exploring Research and Outreach themes</p>
