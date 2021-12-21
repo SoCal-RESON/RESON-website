@@ -13,7 +13,13 @@ description: page description here.
 <p><center><b> 9:00 am - 12:00 pm (PST)</b> </center></p>
 <p><center><b> Virtual</b> </center></p>
 
-
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+     <a href='https://docs.google.com/forms/d/e/1FAIpQLSe91vbP9VD3-4VtrnxA7-Q_U2u_dRv8XqbrCrI4HH2Ye_RX8Q/viewform?usp=sf_link'><button class="btn btn-primary">Register Here</button></a>
+    </div>
+  </div>
+</div>
 
 
 <p><center> RSVPs due Jan. 21, 2022</center></p>
