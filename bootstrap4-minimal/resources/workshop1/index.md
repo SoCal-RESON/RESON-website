@@ -5,7 +5,7 @@ description: page description here.
 
 ---
 
-<h1>Workshop 1: June 29 - 30, 2021</h1>
+<h2>Workshop 1: Ecosystem Unknowns and Societal Monitoring Needs in the California Current</h2>
 
 <div id="main-container">
 
@@ -42,18 +42,20 @@ description: page description here.
 </div>
 
 <div>
-
-<br><br><br>
+<hr/>
+<br>
 <!--opening remarks-->
 <div class="embed-responsive embed-responsive-16by9"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RamDH3Qcznk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<hr/>
           
 <div  class="row">
 <div class="col-md-6">
 
 
-<br><br>
+<br>
 
            <p><u>Collaborations included:</u></p>
             <ul>
@@ -76,6 +78,7 @@ description: page description here.
                               <li>Coastal Band of the Chumash Nation</li>
                               <li>Wishtoyo Chumash Foundation</li>
                               <li>CA Department of Fish and Wildlife</li>
+                              <li>NOAA Ocean Acidification Program</li>
 </ul>
 </div>
 
@@ -83,7 +86,7 @@ description: page description here.
 <ul>
 <br>
 <br> <br><br>
- 	<li>NOAA Ocean Acidification Program</li>
+ 	
                <li>Southwest Fisheries Science Center (SWFSC)</li>
                 <li>Central & Northern CA Ocean Observing System (CeNCOOS)</li>
                   <li>Southern CA Ocean Observing System (SCCOOS)</li>

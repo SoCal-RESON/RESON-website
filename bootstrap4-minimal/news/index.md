@@ -12,6 +12,15 @@ description: News Items
 <div class="row">
 
 <div class="col-md-6">
+<a href="{{ site.baseurl }}/resources/workshop2">
+<img class="img-thumbnail img-responsive" src="/news/workshop2_news_item.png" class="img-fluid"> </a>
+<div class="newsbox" >
+<p> RESON will be hosting their second workshop this February. We are also seeking student helpers- more information can be found in this <a href="{{site.baseurl }}/news/student_w2_participation.pdf"> flyer. </a> - 12.24.21 </p>
+</div> <!--end newsbox-->
+</div>
+
+
+<div class="col-md-6">
 <a href="{{ site.baseurl }}/resources/workshop1/workshop_report.pdf">
 <img class="img-thumbnail img-responsive" src="/assets/img/workshopnews.png" class="img-fluid"> </a>
 <div class="newsbox" >
