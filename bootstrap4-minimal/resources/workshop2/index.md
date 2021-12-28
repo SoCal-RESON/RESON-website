@@ -34,7 +34,7 @@ description: page description here.
 This workshop will explore various technologies to enhance the monitoring of key species to provide insight into ecosystem health. The focus will include looking at technology that can fill in knowledge gaps under 3 key health indices: biodiversity, animal migration, and ecosystem function. We will also explore and refine tying together social and ecological indicators. 
  </p>
  
- <p><b> Seeking student Helpers| </b> We are looking for student helpers for this workshop. Please find all relevant information in this <a href="{{site.baseurl }}/assets/img/student_w2_participation.pdf"> flyer. </a>
+ <p><b> Seeking Student Helpers| </b> We are looking for student helpers for this workshop. Please find all relevant information, including the application, in this <a href="{{site.baseurl }}/news/student_w2_participation.pdf"> flyer. </a> Applications are due on Wednesday, January 19, 2022. 
 
 <hr/>
 <h3> Basic Agenda </h3>
@@ -92,7 +92,7 @@ div.c {
 
 <br>
 <div class="c">
-<p> Updated 12.13.21 </p>
+<p> Updated 12.28.21 </p>
 </div>
 
 
