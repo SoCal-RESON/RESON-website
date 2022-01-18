@@ -13,6 +13,14 @@ description: News Items
 
 <div class="col-md-6">
 <a href="{{ site.baseurl }}/resources/workshop2">
+<img class="img-thumbnail img-responsive" src="/news/intern_IG.png" class="img-fluid"> </a>
+<div class="newsbox" >
+<p> RESON is looking for their next communications intern. More information can be found <a href="{{site.baseurl }}/news/intern_posting.pdf"> here. </a> - 1.17.22 </p>
+</div> <!--end newsbox-->
+</div>
+
+<div class="col-md-6">
+<a href="{{ site.baseurl }}/resources/workshop2">
 <img class="img-thumbnail img-responsive" src="/news/workshop2_news_item.png" class="img-fluid"> </a>
 <div class="newsbox" >
 <p> RESON will be hosting their second workshop this February. We are also seeking student helpers- more information can be found in this <a href="{{site.baseurl }}/news/student_w2_participation.pdf"> flyer. </a> - 12.24.21 </p>
