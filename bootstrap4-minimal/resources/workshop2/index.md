@@ -24,7 +24,7 @@ description: page description here.
 
 <p><center> RSVPs due Jan. 21, 2022</center></p>
 <p><center> Link to the Zoom call will be sent via email</center></p>
-<p><center> For workshop inquiries, email the RESON Coordinator,  <a href="mailto:a_burgos@ucsb.edu">Ali Burgos</a> </center></p>
+<p><center> For workshop inquiries, email the Project Coordinator,  <a href="mailto:a_burgos@ucsb.edu">Ali Burgos</a> </center></p>
 
 
 <hr/>
@@ -68,20 +68,27 @@ This workshop will explore various technologies to enhance the monitoring of key
 <p> *Exact questions are subject to change* </p>
 
 <p><b> Technology </b></p>
-<p> &emsp; a) What technologies can monitor ecosystem health (via indicator species and ocean variables) that informs on: biodiversity, species migration, and ecosystem function? </p>
-<p> &emsp; b) What technologies have the lowest barriers to widespread deployment? </p>
+<p> &emsp; a) What sensors are the most capable of measuring abundance, diversity, and vitals signs in representative organisms in these functional groups </p>
+<p>&emsp;&emsp;<u>Ecosystem functional groups:</u></p>
+<p>&emsp;&emsp;Primary producers (phytoplankton, kelp) </p>
+<p>&emsp;&emsp;Benthic primary consumers (sea urchins, abalone) </p>
+<p>&emsp;&emsp;Pelagic primary consumers (sardines, anchovies, squid) </p>
+<p>&emsp;&emsp;Nearshore predators (kelp forest fish, sharks, seals)</p>
+<p>&emsp;&emsp;Pelagic predators (tuna, sharks, fish)</p>
+
+<p> &emsp; b) Do these sensors have real-time monitoring? Can it be easily and widely deployed? What's the potential cost?</p>
 
 <p><b> Data </b></p>
-<p> &emsp; a) How do we integrate data that already exists? </p>
-<p> &emsp; b) What human-use data streams can be integrated? </p>
+<p> &emsp; a) How do you make individual physiological and population-level measurements that are widely interoperable across modeling and observation-based prediction frameworks? </p>
+<p> &emsp; b) Are there measures of human activity that are proxies for reliance on marine ecosystem services? </p>
 
-<p><b> Research </b></p>
-<p> &emsp; a) What new knowledge or research directions can be filled by this monitoring network? </p>
-<p> &emsp; b) What information would be most desirable from an ecosystem modeling perspective? </p>
+<p><b> Convergent science </b></p>
+<p> &emsp; a) What technologies from yesterday’s conversations best support community science initiatives? </p>
+<p> &emsp; b) How can we co-create data streams that are beneficial to user communities and quantifying the state of the ecosystem?  </p>
 
-<p><b> Outreach </b></p>
-<p> &emsp; a) What technologies support community science initiatives? </p>
-<p> &emsp; b) What other partnerships or collaborations would support this work and how? </p>
+<p><b> Identifying Next Steps </b></p>
+<p> &emsp; a) What are the best ways forward to deploy this network?</p>
+
 
 <br>
 <style>
@@ -92,7 +99,7 @@ div.c {
 
 <br>
 <div class="c">
-<p> Updated 12.28.21 </p>
+<p> Updated 1.31.22 </p>
 </div>
 
 
