@@ -7,6 +7,8 @@ description: page description here.
 
 <h2>Workshop 2: Exploring Technologies to Monitor Coastal Ecosystem Health in California</h2>
 <hr/>
+Workshop opening remarks can be viewed <a href='https://drive.google.com/file/d/15oCbZut2_nmjaZtGUZgpi3l-cyuUGh6O/view?usp=sharing'> here </a>
+<hr/>
 <div id="main-container">
 
 <p><center><b> February 9th & 10th, 2022</b> </center></p>
