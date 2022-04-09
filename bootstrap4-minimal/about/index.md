@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'About RESON'
+title: 'About ESON'
 description: origin, overall research objectives, 
 ---
 
@@ -37,7 +37,7 @@ Obtaining adequate spatial and temporal data is necessary for researchers and ma
 
 <p style="text-align:center" style="font-size:0.85vw">
 Conceptual diagram of the relationships between natural environmental processes,
-human perturbations and ocean observing in an idealized RESON set in the California
+human perturbations and ocean observing in an idealized ESON set in the California
 Current Large Marine Ecosystem.
 <br><small> Conceived by Francisco Chavez, illustrated by Kelly Lance, copyright @MBARI </small> 
 </p>
@@ -49,7 +49,7 @@ Current Large Marine Ecosystem.
 </div>
 <div class="col-md pl-2.2">
 <p>
-We plan to do this by creating a diverse network of people including researchers, practitioners, community members, recreational enthusiasts, commercial fishers, and tribal members. This connection will help guide and inform the RESON framework and its outcomes. Through a workshop series, RESON will create a framework for a comprehensive network that will enhance coastal monitoring and provide a better understanding of ecosystem services and health. These workshops will prioritize ecosystem indicator variables, identify knowledge gaps, and ways to close those gaps with new approaches, including more advanced technology.
+We plan to do this by creating a diverse network of people including researchers, practitioners, community members, recreational enthusiasts, commercial fishers, and tribal members. This connection will help guide and inform the ESON framework and its outcomes. Through a workshop series, ESON will create a framework for a comprehensive network that will enhance coastal monitoring and provide a better understanding of ecosystem services and health. These workshops will prioritize ecosystem indicator variables, identify knowledge gaps, and ways to close those gaps with new approaches, including more advanced technology.
 </p>
 
 
@@ -57,6 +57,6 @@ We plan to do this by creating a diverse network of people including researchers
 
 <div>
 <hr>
-<p> For an overview of RESON, download and view our one-pager <a href="{{site.baseurl }}/about/1_pager.pdf"> here. </a></p>
+<p> For an overview of ESON, download and view our one-pager <a href="{{site.baseurl }}/about/1_pager.pdf"> here. </a></p>
 
 

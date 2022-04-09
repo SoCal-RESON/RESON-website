@@ -23,16 +23,16 @@ description: Home page description here.
 
     <div class="row mt-4">
         <div class="col-md">
-        <h1>Regional Ecosystem Services Observation Network </h1>
-            <h2>(RESON)</h2>
+        <h1>Ecosystem Services Observation Network </h1>
+            <h2>(ESON)</h2>
 
-     <p class="mt-4">RESON aims to design and create a comprehensive network to monitor coastal ecosystems in California, taking advantage of technological advances in sensors and remote systems as well as human networks. This infrastructure is necessary to take the pulse of coastal ecosystems, spanning their structure, function, and services provided to people, to better manage and restore them. 
+     <p class="mt-4">ESON aims to design and create a comprehensive network to monitor coastal ecosystems in California, taking advantage of technological advances in sensors and remote systems as well as human networks. This infrastructure is necessary to take the pulse of coastal ecosystems, spanning their structure, function, and services provided to people, to better manage and restore them. 
 </p> 
 
-        <p>RESON is led by the University of California, Santa Barbara (UCSB) Marine Science Institute, and is part of the National Science Foundation's (NSF) Coastlines and People (CoPe) Program.</p>
+        <p>ESON is led by the University of California, Santa Barbara (UCSB) Marine Science Institute, and is part of the National Science Foundation's (NSF) Coastlines and People (CoPe) Program.</p>
 
 
-   <p> <a href="{{ site.baseurl }}/about">Learn more about RESON here</a> </p>
+   <p> <a href="{{ site.baseurl }}/about">Learn more about ESON here</a> </p>
 
 
   </div>
@@ -114,7 +114,7 @@ description: Home page description here.
         <img src="/assets/img/NSF_150px.png" class="img-fluid" alt="NSF logo" width="250" height="250">
       </div>
       <div class="col-md-2 px-5 text-center">
-        <img src="/assets/img/Rlogo.png" class="img-fluid" alt="RESON" width="150" height="150">
+        <img src="/assets/img/ESON.png" class="img-fluid" alt="ESON" width="150" height="150">
       </div>
       <div class="col-md-2 px-0 text-center">
         
@@ -146,7 +146,7 @@ description: Home page description here.
 <div>
 <br/>
 <br/>
-<p> To stay informed on RESON activities and get involved, sign up for our newsletter </p>
+<p> To stay informed on ESON activities and get involved, sign up for our newsletter </p>
 </div>
 
 

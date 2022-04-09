@@ -1,14 +1,14 @@
 ---
 layout: article
 title: 'Who We Are'
-description: People and organizations assocaited with RESON.
+description: People and organizations assocaited with ESON.
 
 ---
 
 <h1>{{ page.title }} </h1>
 <hr/>
 <br/>
-<p> RESON is overseen by a steering committee who guide the project’s mission and activities. This body aims to be representative of coastal ecosystem research and institutions involved, and includes experts in marine ecology, modeling, and oceanography. </p>
+<p> ESON is overseen by a steering committee who guide the project’s mission and activities. This body aims to be representative of coastal ecosystem research and institutions involved, and includes experts in marine ecology, modeling, and oceanography. </p>
 
 <br/>
 <h3 style="text-align:center"> <u> Steering Committee </u></h3>
@@ -67,12 +67,6 @@ description: People and organizations assocaited with RESON.
  </div>     
 
 
-<div class="col-md-3">
-      <img class="img-responsive" src="/assets/img/manu1.png" class="img-fluid" class="img-thumbnail">
-      <div class="peoplebox">
-      <p class="text-white"> <b> <u> <a class="text-white" href="https://eas.gatech.edu/people/di-lorenzo-dr-emanuele">  Emanuele Di Lorenzo </a></u> </b> <br/> Georgia Tech - Ocean and climate modeling  </p> 
-      </div>
- </div>     
  
  <div class="col-md-3">
       <img class="img-responsive" src="/assets/img/corey.jpg" class="img-fluid" class="img-thumbnail">
