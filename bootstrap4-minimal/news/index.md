@@ -12,17 +12,18 @@ description: News Items
 <div class="row">
 
 <div class="col-md-6">
-<a href="{{ site.baseurl }}/news/Andie">
-<img class="img-thumbnail img-responsive" src="/assets/img/andie.jpeg" class="img-fluid"> </a>
+<img class="img-thumbnail img-responsive" src="/news/newname.png" class="img-fluid"> 
 <div class="newsbox" >
-<p> ESON welcomes their new 2022 communications intern Andie Van Horn. - 4.8.22 </p>
+
+<p style="text-align:right;"> 4.18.22 </p>
 </div> <!--end newsbox-->
 </div>
 
 <div class="col-md-6">
-<img class="img-thumbnail img-responsive" src="/assets/img/ESONlogo.png" class="img-fluid"> 
+<a href="{{ site.baseurl }}/news/Andie">
+<img class="img-thumbnail img-responsive" src="/assets/img/andie.jpeg" class="img-fluid"> </a>
 <div class="newsbox" >
-<p> The Regional Ecosystem Services Observation Network has gone through a name change! Now the Ecosystem Services Observation Network, ESON better aligns with the future goals of having an expandable sensor network in multiple regions  - 3.28.22 </p>
+<p> ESON welcomes their new 2022 communications intern Andie Van Horn. - 4.8.22 </p>
 </div> <!--end newsbox-->
 </div>
 
