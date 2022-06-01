@@ -74,11 +74,7 @@ description: People and organizations assocaited with ESON.
       <p class="text-white"> <b><u>  <a class="text-white" href="https://csumb.edu/directory/person/cogarza">  Corey Garza </a></u> </b> <br/> CSU Monterey Bay - Landscape ecology  </p> 
       </div>
  </div>     
- 
- <div class="col-md-3">
-      <img class="img-responsive" src="/assets/img/A_Burgos.JPG" class="img-fluid" class="img-thumbnail">
-      <div class="peoplebox">
-      <p class="text-white"> <b> Ali Burgos </b> UCSB - <br/> Project Coordinator  </p> 
+
       </div>
  </div>     
 
