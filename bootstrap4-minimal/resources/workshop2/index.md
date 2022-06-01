@@ -24,9 +24,7 @@ Workshop opening remarks can be viewed <a href='https://drive.google.com/file/d/
 </div>
 
 
-<p><center> RSVPs due Jan. 21, 2022</center></p>
-<p><center> Link to the Zoom call will be sent via email</center></p>
-<p><center> For workshop inquiries, email the Project Coordinator,  <a href="mailto:a_burgos@ucsb.edu">Ali Burgos</a> </center></p>
+<p><center> Registration has closed</center></p>
 
 
 <hr/>
