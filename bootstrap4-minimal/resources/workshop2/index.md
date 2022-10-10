@@ -6,8 +6,39 @@ description: page description here.
 ---
 
 <h2>Workshop 2: Exploring Technologies to Monitor Coastal Ecosystem Health in California</h2>
+<div id="main-container">
+
+         <blockquote>
+            <p class="lead">ESON hosted a 2-day virtual workshop to bring together a diverse network of people who are invested in the long-term health of California's coastal ecosystem. About 57 participants joined to identify sensors that are the most capable of measuring abundance, diversity, and vital signs in representative organisms in 5 functional groups (listed below), which are indicators for biodiversity, migration, and ecosystem function.  Find the workshop report, opening remarks video, and collaborations below. <br/> </p>
+
+<!-- close row holding blockquote -->        
+</blockquote>
 <hr/>
 Workshop opening remarks can be viewed <a href='https://drive.google.com/file/d/15oCbZut2_nmjaZtGUZgpi3l-cyuUGh6O/view?usp=sharing'> here </a>
+<br>
+<br>
+<br>
+<div class="row">
+
+<div class="col-md-6">
+
+<div class="formbox" >
+<p>  For a synopsis check out our 1 paper </p>
+<a href="{{site.baseurl}}/resources/workshop2/Synopsis.pdf">
+<img class= "img-responsive" src="/resources/workshop2/Synopsis.png" class="img-fluid" class="img-thumbnail" >
+</a> 
+</div> <!--end formbox-->
+</div>
+
+<div class="col-md-6">
+<div class="formbox" >
+<p>  View the full workshop report here </p>
+<a href="{{site.baseurl}}/resources/workshop2/Workshop_2_Report.pdf">
+<img class= "img-responsive" src="/resources/workshop2/Workshop_2_Report.png" class="img-fluid" class="img-thumbnail">
+</a>
+</div>
+</div>
+
 <hr/>
 <div id="main-container">
 
@@ -99,7 +130,7 @@ div.c {
 
 <br>
 <div class="c">
-<p> Updated 1.31.22 </p>
+<p> Updated 10.10.22 </p>
 </div>
 
 
